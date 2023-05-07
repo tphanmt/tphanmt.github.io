@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Tiffany Phan'
+tagline:          'research & more'
+description:      'PhD student at UT Austin'
+# A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
+url:              http://tphanmt.github.io/
+baseurl:          http://tphanmt.github.io/
+
+author:
+  name:           'Tiffany Phan' 
+  url:            'test url' 
+  email:          'test email'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
